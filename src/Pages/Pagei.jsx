@@ -200,7 +200,7 @@ ${formData.mensaje}
                   </h3>
 
                   <p className="text-gray-200">
-                    +52 616 165 1824
+                    +52 616 107 0699
                   </p>
                 </div>
               </div>
