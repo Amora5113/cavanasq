@@ -72,7 +72,7 @@ const Pagea = () => {
               Para mayor información llama al
             </h1>
             <h1 className='text-gray-700'> 
-              +52 (616) - 165 - 1824
+              +52 (616) - 107 - 0699
             </h1>
           </div>
 
@@ -176,7 +176,7 @@ const Pagea = () => {
                     Para mayor información llama al
                   </h1>
                   <h1 className='text-gray-700'>
-                    +52 (616) - 165 - 1824
+                    +52 (616) - 107 - 0699
                   </h1>
                 </div>
 
